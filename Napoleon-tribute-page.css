@@ -1,0 +1,79 @@
+#name {
+    font-family: Helvetica;
+    font-size: 48px;
+    padding: 70px 0px 0px 0px;
+}
+
+#overview {
+    text-align: justify;
+    line-height: 20px;
+}
+
+#intro {
+    
+}
+
+#portrait {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: thin;
+    border-color: #eee;
+}
+
+#describe {
+    margin: 0px 0px 0px 0px;
+    background-color: #dddddd;
+}
+
+#detail-table {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #dfdfdf;
+    margin: 30px 50px 20px 50px;
+    padding: 10px;
+}
+
+.content {
+    background-color: #eee;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+}
+
+.box-content {
+    border-style: solid;
+    border-width: thin;
+    border-color: #dfdfdf;
+    margin: 30px 50px 20px 50px;
+    padding: 10px;
+}
+
+.center-align-text {
+    text-align: center;
+}
+
+.left-align-text {
+    text-align: left;
+}
+
+.right-align-text {
+    text-align: right;
+}
+
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-title {
+    color: #9fa6d4;
+    text-align: left;
+}
+
+body {
+    font-family: Calibri;
+}
+
